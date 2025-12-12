@@ -32,16 +32,15 @@ A fully responsive personal portfolio built using HTML, CSS, and JavaScript.
 ---
 
 ## 🎓 Education  
-**B.Tech in Information Technology**  
-Maharaja Agrasen Institute of Technology
-
+**B.Tech — Information Technology**  
+[MAIT] | [2026]
 
 ---
 
 ## 📞 Contact  
 📧 Email: sachinkr0872@gmail.com  
 🔗 GitHub: https://github.com/sachinkr0872  
-🌐 Portfolio: 
+
 
 ---
 
