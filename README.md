@@ -44,6 +44,6 @@ A fully responsive personal portfolio built using HTML, CSS, and JavaScript.
 
 ---
 
-⭐ Thank you for visiting my portfolio repo!  
+⭐ Thank you for visiting my portfolio repo! 
 Feel free to check out my projects and connect with me.
 
