@@ -37,6 +37,7 @@ body{
     padding: 40px;
 }
 
+/* Sidebar */
 
 /* Profile section */
 
@@ -109,11 +110,41 @@ body{
 .social img{
     height: 24px;
     width: 24px;
-    margin-left: 5px;
+    margin-left: 10px;
     filter: grayscale(1) invert(0.7);
     transition: filter 0.3s ease;
 }
 
 .social img:hover{
     filter: grayscale(0) invert(0);
+}
+
+
+
+/* Main content */
+
+/* Navigation  */
+
+
+#navigation{
+    border-bottom: 2px solid #3a3a3a;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+nav{
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+
+nav a{
+    text-decoration: none;
+    color: #a0a0a0;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.active, nav a:hover{
+    color: #FFBF00;
 }
