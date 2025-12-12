@@ -125,7 +125,6 @@ body{
 
 /* Navigation  */
 
-
 #navigation{
     border-bottom: 2px solid #3a3a3a;
     margin-bottom: 20px;
@@ -147,4 +146,29 @@ nav a{
 
 .active, nav a:hover{
     color: #FFBF00;
+}
+
+
+/* about me */
+
+.heading{
+    color: #e0e0e0;
+    font-size: 2rem;
+    margin-bottom: 15px;
+}
+
+.line{
+    width: 60px;
+    height: 5px;
+    background-color: #FFBF00;
+    margin-bottom: 15px;
+}
+
+.content{
+    text-align: justify;
+    color: #a0a0a0;
+}
+
+#about{
+    margin-bottom: 40px;
 }
